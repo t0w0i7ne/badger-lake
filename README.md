@@ -47,6 +47,10 @@ working Vcc is 5VDC but many have had success using 3.3VDC directly from Pi or E
 
 [Example Arduino GitHub Repo](https://github.com/sparkfun/HC-SR04_UltrasonicSensor)
 
+[Pi Code Example 1](https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
+
+[Pi Code Example 2](https://www.hackster.io/Shafin-Kothia/water-level-monitor-with-raspberry-pi-d509a2)
+
 ### LoRa Radio Module (Heltec V3)
 
 * supports wifi

@@ -4,7 +4,7 @@
 
 The Raspberry Pi Zero series are much smaller than the primary Pi models.  They have a single core CPU instead of the quad core CPUs found on the primary models, but they also use much less power (.6W idle vs 2W and 1.5W under load vs 5W).
 
-The W means that it has built-in WiFi and th H means that the GPIO headers are pre-installed/soldered to the board.
+The W means that it has built-in WiFi and the H means that the GPIO headers are pre-installed/soldered to the board.
 
 [Amazon Link (Quick Start Kit)](https://www.amazon.com/DIGISHUO-Pi-Zero-WH-Pre-Soldered/dp/B0BWT2CBJT/ref=sr_1_5?crid=S5PYY3JQYN4G&dib=eyJ2IjoiMSJ9.S0nv3nYiRnZdm96eKHJiJur6dxA5J56jNnwPHbBmTgXKkPSapg1_hbnlLp5vBv4xJD7z9xZ8kckhS-JtrVMPBqjLjmpvfID6l2riB9mvX0bueA516xo6aUd9lqXRRjyhGKQxV6SLstIoJ-2E8v5r5wQvW6G70GbiH9aIECj30lzn2hlc8H1qqFVY9dAZQxpCJvseljmBEqSs0n5JXx_7dzhV_0fpn5kJQh0WHGPZRx8.eWMGMCjBHtCLtTch76-iRXFhwaS_uEAFukx_gsdd5Vk&dib_tag=se&keywords=pi%2Bzero%2Bkit%2Bsoldered%2Bheaders&qid=1715572799&sprefix=pi%2Bzero%2Bkit%2Bsoldered%2Bheader%2Caps%2C150&sr=8-5&th=1)
 
@@ -13,7 +13,7 @@ All Raspberry Pi variants run a full OS.  Several Linux distributions are availa
 ## Satellite Units (ESP-32 or variants)
 * Arduino compatible
 * can run micro Python
-* many code eaxampes online/highly supported
+* many code examples online/highly supported
 * digital and analog GPIO
 * very low power use, can have timed sleep mode for lower power use
 * supports WiFi
